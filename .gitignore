@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+q# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -78,3 +78,4 @@ ExpAn-Intro.slides.html
 
 # Data
 nmt_data/
+en-de/
